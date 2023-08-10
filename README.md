@@ -1,6 +1,7 @@
 # docker_test_1
 This is the first line.
 
+test_hello
 
 This is the second line.
 
