@@ -11,6 +11,7 @@ jobs:
   build:
     runs-on: self-hosted
 
+
     steps:
       - name: Pull Docker Image
         run: sudo docker pull hiteshsharma97/titanic-fastapi:latest
